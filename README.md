@@ -1,36 +1,41 @@
-<h1 align="center">Hi 👋, I'm Kazi Arafat Mia</h1>
-<h3 align="center">Senior Software Engineer | Laravel | React | Node.js</h3>
+# 👋 Hi Traveller, I am Kazi Arafat Mia
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kaziarafatmia&label=Profile%20views&color=0e75b6&style=flat" alt="kaziarafatmia" /> </p>
+🚀 I’m a Senior Software Engineer with a focus on Laravel, React, Vue, Node.js, and AI integrations.
 
-- 🔭 I’m currently working on **AI-based POS system**
-- 🌱 I’m learning **Next.js and AI tools**
-- 💬 Ask me about **Laravel, React, Vue, APIs**
-- 📫 How to reach me **kazi@example.com**
-- ⚡ Fun fact: I love clean architecture and DevOps.
+🛠️ I love building scalable apps, clean architecture, and efficient API systems.
 
-### 🛠️ Languages and Tools:
+### 🧠 Currently Working On:
+- 🔭 AI-Powered POS System
+- 📦 eCommerce with Headless CMS
+- 🧪 Automated Testing Tools for Laravel
+
+### 📬 Let's Connect
+- 📧 Email: kazi@example.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/yourname)
+- 🌐 [Portfolio](https://yourportfolio.com)
+
+---
+
+### 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kaziarafatmia&show_icons=true&theme=radical)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=kaziarafatmia&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaziarafatmia&layout=compact)
+
+---
+
+### ⚒️ Tools & Tech Stack
+
 <p align="left">
-  <img src="https://img.shields.io/badge/-Laravel-red?style=flat&logo=laravel" />
-  <img src="https://img.shields.io/badge/-React-blue?style=flat&logo=react" />
-  <img src="https://img.shields.io/badge/-Vue.js-green?style=flat&logo=vue.js" />
-  <img src="https://img.shields.io/badge/-Node.js-brightgreen?style=flat&logo=node.js" />
-  <img src="https://img.shields.io/badge/-MySQL-blue?style=flat&logo=mysql" />
+  <img src="https://img.shields.io/badge/-Laravel-red?style=flat-square&logo=laravel" />
+  <img src="https://img.shields.io/badge/-React-blue?style=flat-square&logo=react" />
+  <img src="https://img.shields.io/badge/-Vue.js-green?style=flat-square&logo=vue.js" />
+  <img src="https://img.shields.io/badge/-Node.js-brightgreen?style=flat-square&logo=node.js" />
+  <img src="https://img.shields.io/badge/-MySQL-blue?style=flat-square&logo=mysql" />
+  <img src="https://img.shields.io/badge/-Git-orange?style=flat-square&logo=git" />
 </p>
 
 ---
 
-### 📈 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kaziarafatmia&show_icons=true&locale=en" alt="kaziarafatmia" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaziarafatmia" alt="streak" />
-</p>
-
----
-
-### 📫 Connect with me:
-<p align="left">
-  <a href="https://linkedin.com/in/yourlinkedin" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin" height="30" width="30" /></a>
-  <a href="mailto:kazi@example.com"><img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="gmail" height="30" width="30" /></a>
-</p>
+> 🧑‍💻 *"Let’s build something awesome together!"*
